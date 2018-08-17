@@ -1,0 +1,15 @@
+{
+    "title": "New Stage Project",
+    "baseURL": "https:\/\/stage.tvpage.com\/jpchang",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/jpchang",
+        "firstpartycookies": true,
+        "cookiedomain": "tvpage.com"
+    }
+}
